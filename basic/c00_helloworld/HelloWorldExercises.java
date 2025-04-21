@@ -10,8 +10,10 @@ public class HelloWorldExercises {
     public static void main(String[] args) {
 
         // 1. Imprime un mensaje que diga tu nombre en lugar de "¡Hola Mundo!".
+        System.out.println("Jose Castillo");
 
         // 2. Imprime dos líneas: "Hola" y luego "Mundo" con un solo println.
+        System.out.println("Hola \nMundo");
 
         // 3. Añade un comentario sobre lo que hace cada línea del programa.
 
