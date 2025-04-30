@@ -18,10 +18,16 @@ public class HelloWorldExercises {
         // 3. Añade un comentario sobre lo que hace cada línea del programa.
 
         // 4. Crea un comentario en varias líneas.
+        /* Esto es un comentario
+            en varias líneas
+         */
 
         // 5. Imprime tu edad, tu color favorito y tu ciudad.
+        System.out.println("Edad: " + 38);
+        System.out.println("Color: Azul, Vinotinto, negro");
 
         // 6. Explora los diferentes System.XXX.println(); más allá de "out".
+        System.setIn(System.in);
 
         // 7. Utiliza varios println para imprimir una frase.
 
